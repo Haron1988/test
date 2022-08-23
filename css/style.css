@@ -5,3 +5,7 @@ body {
 a {
   text-decoration: none;
 }
+
+.header{
+  background-color: aqua;
+}
